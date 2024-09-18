@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1200" height="auto" alt="MasterHead"><h1 align="center">Hi there! Welcome to my GIT  </h1>
+<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1200" height="auto" alt="MasterHead"><h1 align="center">Hi there! Welcome to my GIT 🎮 </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
-<h1 align="center">Hi there! Welcome to my Git</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sword013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sword013" height="30" width="40" /></a>
