@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1200" height="200" alt="MasterHead"><h1 align="center">Hi there! Welcome to my GIT 🎮 </h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
+<img align="right" alt="Coding" width="auto" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sword013?ext=contest)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
